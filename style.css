@@ -1,0 +1,77 @@
+body{
+font-style: italic;
+font-weight: bold;
+background: url(https://wallpapercave.com/wp/wp2687017.jpg) ;
+font: ebrima ;
+color: #942828;
+}
+h2{
+font-weight: normal;
+}
+.box{
+width : 1350px;
+height : 600px;
+top : 0px auto;
+background-size: cover;
+background-position: center;
+}
+.btnstreet{
+width: 20px;
+height: 50px;
+background-color:  #2F4F4F;
+}
+.btnstreet:hover{
+background: #008080;
+color: black;
+}
+.btncasual{
+width: 20px;
+height: 50px;
+background-color:  #2F4F4F;
+}
+.btncasual:hover{
+background: #008080;
+color: black;
+}
+.btne{
+width: 20px;
+height: 50px;
+background:  #2F4F4F;
+}
+.btne:hover{
+background: #008080;
+color: black;
+}
+.btnvsco{
+width: 20px;
+height: 50px;
+background:  #2F4F4F;
+}
+.btnvsco:hover{
+background: #008080;
+color: black;
+}
+ul{
+margin-left: 100px;
+padding: 0px;
+list-style: none;
+color: black;
+}
+ul li{
+float: left;
+width: 200px;
+height: 40px;
+background-color: black ;
+opacity: .8;
+line-height: 40px;
+text-align: center;
+margin-right: 2px;
+}
+ul li a{
+text-decoration: none;
+color: white;
+display: block;
+}
+ul li a:hover{
+background-color: grey;
+}
